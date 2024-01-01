@@ -1,4 +1,6 @@
-public class MyFirstProgram {
+package ru.stqa.aqa.sandbox;
+
+public class MyFirstProgram1 {
 
 	public static void main(String[] args){
 
